@@ -1,0 +1,10 @@
+Assamualaikum Pak Agus
+
+
+Ini adalah bagian dari projek kelompok saya,
+dalam program ini saya memilih fitur review tentang informasi-informasi tempat
+wisata yang ada di Jawa Timur, dengan pilihan bebagai jenis wisata di jawa Timur. 
+
+fitur review ini berguna untuk searching tempat wisata yang akan dituju
+Tapi saya mendapatkan banyak kesulitan, dimana saya bingung darimana harus memulai membuat program
+saya mendapatkan laptop saya seminggu sebelum UTS, dan saya belum bisa menampilkan record inputan review.
